@@ -1,4 +1,6 @@
-## Hi there 👋
+## Qroma Projects Portfolio
+
+Links to projects built and hosted using <a href="https://qroma.dev/">the qroma.dev embedded device development platform</a>.
 
 <!--
 
