@@ -1,6 +1,6 @@
 ## Qroma Projects Portfolio
 
-A list of projects built and hosted using <a href="https://qroma.dev/">the qroma.dev embedded device development platform</a>.
+A collection of projects built and hosted using <a href="https://qroma.dev/">the qroma.dev embedded device development platform</a>.
 
 #### Current
 * [Qroma Boards](https://qroma-projects.github.io/qroma-boards/)
