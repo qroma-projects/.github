@@ -3,12 +3,12 @@
 A collection of projects built and hosted using <a href="https://qroma.dev/">the qroma.dev embedded device development platform</a>.
 
 #### Current
-* [Qroma Boards](https://qroma-projects.github.io/qroma-boards/)
-* [Qroma Lights](https://qroma-projects.github.io/qroma-lights/)
+* [Qroma Boards](https://qroma-projects.github.io/qroma-boards/) - [repo](https://github.com/qroma-projects/qroma-boards)
+* [Qroma Lights](https://qroma-projects.github.io/qroma-lights/) - [repo](https://github.com/qroma-projects/qroma-lights)
 
 
 #### Retired
-* [Qroma Lights (old-1)](https://qroma-projects.github.io/qroma-lights-old-1/)
+* [Qroma Lights (old-1)](https://qroma-projects.github.io/qroma-lights-old-1/) - [repo](https://github.com/qroma-projects/qroma-lights-old-1)
 
 <!--
 
