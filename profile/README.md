@@ -10,6 +10,14 @@ A collection of projects built and hosted using <a href="https://qroma.dev/">the
 * [Qroma Lights (old-1)](https://qroma-projects.github.io/qroma-lights-old-1/) - [repo](https://github.com/qroma-projects/qroma-lights-old-1)
 * [Qroma Lights (old-2)](https://qroma-projects.github.io/qroma-lights-old-2/) - [repo](https://github.com/qroma-projects/qroma-lights-old-2)
 
+
+#### To Do
+* Qroma Hat/Frank Hat
+* Qroma Hat 2 (flexible e-ink)
+* UM Bling
+  * Modes: clock, ticker, solid light, animations
+* Qroma Lights (multi-segment)
+
 <!--
 
 **Here are some ideas to get you started:**
