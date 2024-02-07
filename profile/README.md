@@ -4,6 +4,8 @@ A collection of projects built and hosted using <a href="https://qroma.dev/">the
 
 #### Current
 * [Qroma Boards](https://qroma-projects.github.io/qroma-boards/) - [repo](https://github.com/qroma-projects/qroma-boards)
+* [Qroma Lights](https://qroma-projects.github.io/qroma-lights/) - [repo](https://github.com/qroma-projects/qroma-lights)
+
 
 
 #### Retired
